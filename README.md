@@ -1,25 +1,10 @@
-# LAST - URL shortener
-
-## Students group
-
-- Логвиненко Тимур - `logvinenko814@gmail.com`
-- Афонін Олексій - `erhatod@gmail.com`
-- Бордюг Олександр - `John57s422@gmail.com`
-- Трудов Антон - `trudovanton1@gmail.com`
+# URL shortener
 
 ## Design document
 
-The [design document] that
-describes architecture and implementation details of this project.
+The [design document] that describes architecture and implementation details of this project.
 
 ### System structure
-
-After the third laboratory assignment groups will switch projects with one another. Because of this,
-all projects have to have the same high-level structure. Also, this is the reason why you should not
-modify project dependencies.
-
-Please remember that the main goal of the course is **testing** and everything else is just an 
-implementation harness.
 
 There are four modules:
 - `auth` **authentication module** - creates new users, authenticates existing ones
@@ -36,10 +21,10 @@ There are four modules:
 ### Java
 This is a Java project, so you will need an environment with installed [JDK] 15. For installation, 
 you could use:
-- [sdkman] on Linux/MacOS 
+- [sdkman] on Linux/MacOS
 - [AdoptOpenJDK] on Windows
 
-### IDE  
+### IDE
 As IDE use [IntelliJ Idea Edu].
 
 ### Checkstyle
